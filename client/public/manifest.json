@@ -1,0 +1,20 @@
+{
+  "name": "Colonias de Verano - Municipalidad de Valle Viejo",
+  "short_name": "Colonias VV",
+  "description": "Plataforma y App de Fichas Médicas Digitales - Colonias de Verano de la Municipalidad de Valle Viejo",
+  "start_url": "/admin",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6FAFE",
+  "theme_color": "#006494",
+  "categories": ["medical", "education", "government"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
